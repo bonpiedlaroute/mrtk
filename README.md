@@ -1,1 +1,2 @@
-## mrtk
+## Multicore Real-Time Kernel (MRTK)
+
