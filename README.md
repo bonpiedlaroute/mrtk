@@ -1,6 +1,6 @@
 ## Multicore Real-Time Kernel (MRTK)
 
-MRTK is a multicore real-time operating systems designed, and developped by TimeCriticalSystem.
+MRTK is a multicore real-time operating systems designed, and developped by bonpiedlaroute.
 
 Obviously MRTK can also be run on uniprocessor real-time systems, but has been developped to suit multicore systems with shared memory.
 
